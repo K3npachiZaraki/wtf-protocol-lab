@@ -1,3 +1,13 @@
+## Week 1 — Sepolia Deployment
+
+WTFCounter deployed successfully to Ethereum Sepolia.
+
+**Contract:** `WTFCounter`
+
+**Address:** `0x20390cA594F03F70526663778d9d0251F3cbced9`
+
+**Network:** Ethereum Sepolia
+
 # WTF Protocol Lab
 
 An independent Solidity/Web3 portfolio project inspired by a six-week smart-contract development specification.
