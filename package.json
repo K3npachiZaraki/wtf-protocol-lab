@@ -1,0 +1,21 @@
+{
+  "name": "wtf-protocol-lab",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Independent Solidity/Web3 portfolio project inspired by a six-week smart contract development specification.",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy:counter": "hardhat run scripts/deploy-counter.ts --network sepolia"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@types/node": "^20.0.0",
+    "dotenv": "^16.4.0",
+    "hardhat": "^2.26.0",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
