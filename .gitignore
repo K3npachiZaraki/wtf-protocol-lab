@@ -8,3 +8,4 @@ typechain-types/
 !.env.example
 dist/
 .DS_Store
+coverage.json
